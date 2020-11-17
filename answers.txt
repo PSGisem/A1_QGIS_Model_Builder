@@ -1,0 +1,16 @@
+1. What is the Topographic Wetness Index? 
+
+- "The TWO describes the location and size for saturated area subject to overland flow (S.2)
+- TWI can be implemented on a Digital Elevation Model (DEM) made with LiDAR-Data.
+- TWI is an alternative to the traditional approach of using contours for delineating flood-prone areas.
+
+Der TWI kann auf Basis eines DEM berechnet werden. Er zeigt dann, die Größe und Position eines durch Oberflächenabfluss durchtränkten/gesättigten Gebietes. Der TWI zeigt, macht den Einfluss der Topographie auf die tieferen Geländestrukturen messbar und zeigt die langzeit Feuchtigkeitsverfügbarkeit einer Landschaft. Der TWI nutzt einfache physikalische Prinzipien, um Wasserbewegung/Abfluss zu berechnen.
+Der TWI beschreibt die Akkumulation des Wasserabflusses an einem bestimmten Punkt. Die Hangneigung zeigt den Einfluss der Gravitation auf Wasserbewegungen.
+
+
+2. How are the TWI values related to the flood probability?
+
+The flood probability cant´t be predicted by TWI. TWI can only determine areas, "wich would be affected by runoff from excess rainfall (Pourali et al. 2016: 15). Urban drainage network, the extend of flood area, time of flooding, water flow velocity, depth, discharge are not regarded and included in the analysis. But TWI connects the local flash flood situation to the upstream catchment. It´s validity is therefore limited.
+
+
+
