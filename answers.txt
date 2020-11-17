@@ -1,3 +1,6 @@
+
+#### 1. Answer the following questions:
+
 1. What is the Topographic Wetness Index? 
 
 - "The TWO describes the location and size for saturated area subject to overland flow (S.2)
@@ -11,6 +14,11 @@ Der TWI beschreibt die Akkumulation des Wasserabflusses an einem bestimmten Punk
 2. How are the TWI values related to the flood probability?
 
 The flood probability cant´t be predicted by TWI. TWI can only determine areas, "wich would be affected by runoff from excess rainfall (Pourali et al. 2016: 15). Urban drainage network, the extend of flood area, time of flooding, water flow velocity, depth, discharge are not regarded and included in the analysis. But TWI connects the local flash flood situation to the upstream catchment. It´s validity is therefore limited.
+
+
+#### 2. Search for FOSS GIS tools to calculate the TWI.
+According to https://opengeospatialdata.springeropen.com/track/pdf/10.1186/s40965-019-0066-y.pdf
+TWI can be calculated with GRASS GIS, Whitebox GAT and SAGA GIS (e.g. page 5).
 
 
 
